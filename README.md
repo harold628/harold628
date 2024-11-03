@@ -25,6 +25,5 @@
   </lo>
   </main>
   <footer>Copyright HAROLD</footer>
-  <script src="script.js"></script>
 </body>
 </html>
